@@ -1,0 +1,18 @@
+{
+  "name": "quillette-api",
+  "version": "1.0.0",
+  "description": "Quillette is a platform for free thought. This API aims to enable developers to bring their articles to new applications.",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": {
+  	"name": "Alex Sopinka"
+  },
+  "keywords": "quillette,free thought,free speech",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request-promise": "^4.2.3"
+  }
+}
