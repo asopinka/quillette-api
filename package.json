@@ -1,6 +1,6 @@
 {
   "name": "quillette-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quillette is a platform for free thought. This API aims to enable developers to bring their articles to new applications.",
   "main": "api.js",
   "scripts": {
